@@ -4,7 +4,7 @@
 
 - This analysis was performed to investigate AutosRUs newest prototype the MechaCar. Which is suffering from delayed production. This data will be supplied to leadership with insights that will help.
 
-- Linear Regression to Predict MPG
+## Linear Regression to Predict MPG
 - ![summary_LR](https://user-images.githubusercontent.com/113808332/221390272-f33e1f3f-178b-40a7-812c-e858d5147911.png)
 
 
@@ -30,7 +30,7 @@
 
 
 
-- T-Tests on Suspension Coils
+## T-Tests on Suspension Coils
 
 -![onet-test](https://user-images.githubusercontent.com/113808332/221391095-2830ec84-2077-410f-ac4f-cf24c84d1f53.png)
 
@@ -43,4 +43,4 @@
 
 
 
-- Study Design: MechaCar vs. Competition
+## Study Design: MechaCar vs. Competition
