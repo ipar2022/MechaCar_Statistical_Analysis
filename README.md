@@ -13,11 +13,17 @@
 
 
 - ## Summary Statistics on Suspension Coils
+
+
 - Total summary statistics for all manufacturing lots
+
+
 -![s_c](https://user-images.githubusercontent.com/113808332/221390630-50cd25fb-e906-4675-8d27-cd41c2869930.png)
 
 
 - Each manufacturing lot summary statistics
+
+
 ![M_L lot summary](https://user-images.githubusercontent.com/113808332/221390766-a31a2530-02f4-4c57-8558-6692d9074cb3.png)
 
 
