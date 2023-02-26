@@ -13,7 +13,7 @@
 
 
 
-- ## Summary Statistics on Suspension Coils
+## Summary Statistics on Suspension Coils
 
 
 - Total summary statistics for all manufacturing lots
