@@ -32,6 +32,11 @@
 
 - T-Tests on Suspension Coils
 
+-![onet-test](https://user-images.githubusercontent.com/113808332/221391095-2830ec84-2077-410f-ac4f-cf24c84d1f53.png)
+
+- ![Lots 1-3](https://user-images.githubusercontent.com/113808332/221391305-a6792df5-2ac0-46c1-b7f7-418a470f63e5.png)
+
+
 
 
 
