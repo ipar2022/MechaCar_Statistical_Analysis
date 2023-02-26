@@ -13,11 +13,13 @@
 
 
 - 1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+The spoiler angle, vehicle length, and AWD all contributed to non-random variances. The noteworthy variables are ground clearance and vehicle length.
 
 - 2. Is the slope of the linear model considered to be zero? Why or why not?
+The slope of the line is not zero as shown by the p-value of 5.35⁻11
 
 - 3. Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
-
+The linear regression is somewhat efficient at predicting the mpg. When considering R-2 value of 0.71 of the mpg variations are attributed to vehicle length, spoiler angle, vehicle weight to name a few. 
 
 
 ## Summary Statistics on Suspension Coils
@@ -28,6 +30,12 @@
 
 -![s_c](https://user-images.githubusercontent.com/113808332/221390630-50cd25fb-e906-4675-8d27-cd41c2869930.png)
 
+
+
+
+- The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+
+The summary statistics variance of the suspension coils overall is 62.29 psi. Lot 1 has a variance of 0.97 psi, Lot 2 has a variance of 7.46 psi, and Lot 3 has a variance of 170.28 psi. Lot 1 and Lot 2 are within there limits. Lot 3 has a strongly skewed variance which is outside of the design specifications.
 
 
 - Each manufacturing lot summary statistics
